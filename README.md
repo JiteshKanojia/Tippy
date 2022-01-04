@@ -23,7 +23,7 @@ The following **extensions** are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://s10.gifyu.com/images/tippy-app-demo.gif' title='Video Walkthrough' width='1080px' height='2340px' alt='Video Walkthrough' />
+<img src='https://s10.gifyu.com/images/tippy-app-demo.gif' title='Video Walkthrough' width='200' alt='Video Walkthrough' />
 
 
 ## Notes
